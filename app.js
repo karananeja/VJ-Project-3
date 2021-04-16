@@ -40,7 +40,7 @@ const reviews = [
         id: 5,
         name: "karan kumar aneja r",
         job: "web developer",
-        img: "person-1.jpeg",
+        img: "Karan_Photo_New.jpeg",
         text: "a brilliant intellgent person who can change the face of the company by his knowledge and expertise"
     }
 ];
